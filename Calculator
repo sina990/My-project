@@ -1,4 +1,4 @@
-# --- Simple Calculator by Using Functions ---
+# -- Simple Calculator by Using Functions --
 # This function adds two numbers
 def add(x, y):
     return x + y
